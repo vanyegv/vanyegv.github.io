@@ -11,9 +11,12 @@ Llevando todo al origen, he caído en cuenta en que un sistema windows standard 
 
 Ahora bien, el mundo de las distros es gigantesco, ¿por donde comenzar?
 
-Pongamoslo en perspectiva, mi equipo es una laptop con recursos medios, no dispongo de tanto tiempo para realizar toda la configuración de una distro a modo de un tirón, requiero alguno que tenga un soporte amplio y con variedades para el desarrollo y ejemplos simples.
+- Pongamoslo en perspectiva, mi equipo es una laptop con recursos medios
+- No dispongo de tanto tiempo para realizar toda la configuración de una distro a modo de un tirón
+- Requiero alguno que tenga un soporte amplio
+- Variedades para el desarrollo y ejemplos simples.
 
-Ponemos todo eso en la mesa y luego de pensarlo, me he decidido por instalar Ubuntu-22.10-Desktop-amd64 ya que es fácil, tiene Gnome que tantos recuerdos me trae y el soporte de toda una comunidad además de ser la distro mas conocida, por lo que para iniciar está mas que bien.
+Ponemos todo eso en la mesa y luego de pensarlo, me he decidido por instalar *Ubuntu-22.10-Desktop-amd64* ya que es fácil, tiene Gnome que tantos recuerdos me trae y el soporte de toda una comunidad además de ser la distro mas conocida, por lo que para iniciar está mas que bien.
 
 Con el tiempo y experiencia adquirida iré probando mas distros para variarle.
 
